@@ -8,7 +8,7 @@ class Shoe
     @brand = brand
 
     # only shovel brand into BRAND if it is first instance 
-    BRANDS.
+    BRANDS.find 
     BRANDS << brand
   end
 
