@@ -11,6 +11,7 @@ class Shoe
     BRANDS.find do |element|
       
     end 
+    
     BRANDS << brand
   end
 
