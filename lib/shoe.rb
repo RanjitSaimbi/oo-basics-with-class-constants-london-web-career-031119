@@ -6,10 +6,6 @@ class Shoe
 
   def initialize(brand)
     @brand = brand
-
-    # only shovel brand into BRAND if it is first instance 
-    
-  
     BRANDS << brand
   end
 
